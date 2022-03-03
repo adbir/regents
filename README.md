@@ -12,7 +12,7 @@ Hvor mange regenter er der i listen?
 Hvem regerede længst? (Og hvor længe?)  
 Hvilken slægt regerede længst? (Og hvor længe?)  
 Hvilket navn har været mest populært?  
-Hvor længe har Danmark været uden regent? (Og hvor længe?)  
+Hvor længe har Danmark været uden regent?
 
 ## Format
 
